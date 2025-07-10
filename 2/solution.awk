@@ -10,7 +10,7 @@ BEGIN {
 
 # Define the regexp that the lines should match with to use
 # in the body block
-/HTTP\/1\.[01]" [45][0-9][0-9] / {
+/HTTP\/1.[01]" [45][0-9][0-9] / {
 
   # Extracting variables from the input in order to
   # make it more understandable

@@ -1,0 +1,5 @@
+outer=1 [middle=2 (inner=3 score=85 name=john)]
+config=main [settings=basic (timeout=30 retries=5 debug=true)]
+level1=a [level2=b (level3=c weight=92.5 height=180)]
+system=prod [env=staging (port=8080 threads=10 memory=2048)]
+outer=1 [middle=2 (score=75 name=bryan)]
