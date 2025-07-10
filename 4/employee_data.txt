@@ -1,0 +1,6 @@
+John,Smith,Engineering,75000,Manager,2020-01-15
+,Johnson,Marketing,,Associate,2021-03-10
+Mary,,Sales,65000,Senior,
+Peter,Brown,Engineering,80000,,2019-06-20
+,,,45000,Intern,2023-01-01
+Alice,Wilson,HR,70000,Manager,2018-11-30

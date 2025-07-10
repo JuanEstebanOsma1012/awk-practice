@@ -7,15 +7,10 @@ This repository store 10 complex exercises to resolve using AWK, also contains a
 **Archivo transactions.csv:**
 
 2024-01-15,DEBIT,150.50,Payment A1 grocery
-
 2024-01-16,CREDIT,200.00,salary deposit
-
 2024-01-17,DEBIT,75.25,Gas station B2
-
 2024-01-18,CREDIT,50.00,refund item
-
 2024-01-19,DEBIT,300.00,Rent C3 apartment
-
 2024-01-20,CREDIT,25.75,Cashback D4 reward
 
 
@@ -25,13 +20,8 @@ This repository store 10 complex exercises to resolve using AWK, also contains a
 **Archivo server_logs.txt:**
 
 192.168.1.100 - - [15/Jan/2024:10:30:45] "GET /index.html HTTP/1.1" 200 1234
-
 10.0.0.5 - - [15/Jan/2024:10:31:12] "POST /login HTTP/1.1" 401 567
-
 192.168.1.100 - - [15/Jan/2024:10:32:30] "GET /admin HTTP/1.1" 403 890
-
 203.0.113.45 - - [15/Jan/2024:10:33:15] "GET /missing HTTP/1.1" 404 234
-
 198.51.100.20 - - [15/Jan/2024:10:34:20] "GET /error HTTP/1.1" 500 1122
-
 10.0.0.5 - - [15/Jan/2024:10:35:45] "GET /timeout HTTP/1.1" 504 445
